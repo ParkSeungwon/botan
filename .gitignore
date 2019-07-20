@@ -33,3 +33,9 @@ test
 *.out
 *.app
 *.vim
+find
+.
+-size
++3M
+.
+-size
