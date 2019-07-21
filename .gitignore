@@ -33,14 +33,4 @@ test
 *.out
 *.app
 *.vim
-find
-.
--size
-+3M
-.
--size
-./obj/catch.tx
-obj/catch.tx
-obj/catch.tx
-obj/catch.tx
 obj/catch.tx
