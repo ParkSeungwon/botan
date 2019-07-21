@@ -34,3 +34,4 @@ test
 *.app
 *.vim
 obj/catch.tx
+obj/catch.tx
